@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43665f35b9b42104c8afd97133907c39, type: 3}
+  m_Name: Standard
+  m_EditorClassIdentifier: 
+  _ballPrefab: {fileID: -3973191435190834290, guid: ba46f234c6d966448a65caf54abfd28b,
+    type: 3}
+  _scores: []
+  _timeout: {fileID: 11400000, guid: c37f932a835fe0c4b9034cfcaf3fe144, type: 2}
+  _roundsToWin: {fileID: 11400000, guid: 02ca0694dcfe80f4c8e70b62c3bc6c50, type: 2}
